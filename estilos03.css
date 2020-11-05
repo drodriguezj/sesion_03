@@ -1,25 +1,5 @@
-/* para headers---------------------------------------- */
-h1 {
-    color: #025157;
-  }
-
-#fondo {
-  color:blue;
-  background-color: black;
-}
-
-.parrafo {
-    color: green;
-  }
-  
-  
-
-/* para id---------------------------------------- */
-#cabecera {
-
-}
-
-/* para clases---------------------------------------- */
-.cabecera {
-
+.container-header{
+  width: 100%;
+  height: 400px;
+  background-color: aqua;
 }
